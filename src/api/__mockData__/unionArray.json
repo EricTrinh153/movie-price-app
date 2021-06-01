@@ -1,0 +1,20 @@
+[
+  {
+    "title": "movie B",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+    "filmPrice": 30,
+    "cinemaPrice": 25
+  },
+  {
+    "title": "movie C",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+    "filmPrice": 35,
+    "cinemaPrice": "Not Available"
+  },
+  {
+    "title": "movie A",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+    "cinemaPrice": 20,
+    "filmPrice": "Not Available"
+  }
+]
